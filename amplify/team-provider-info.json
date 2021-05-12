@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-interview-dev-142249-authRole",
+      "UnauthRoleArn": "arn:aws:iam::889974460700:role/amplify-interview-dev-142249-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::889974460700:role/amplify-interview-dev-142249-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-interview-dev-142249-deployment",
+      "UnauthRoleName": "amplify-interview-dev-142249-unauthRole",
+      "StackName": "amplify-interview-dev-142249",
+      "StackId": "arn:aws:cloudformation:us-east-1:889974460700:stack/amplify-interview-dev-142249/70a099b0-b2ff-11eb-8ed9-12e90514669b",
+      "AmplifyAppId": "d3g0nxfztl2ps0"
+    },
+    "categories": {
+      "auth": {
+        "interview12844fb2": {}
+      },
+      "function": {
+        "syncConflictHandlerab56568e": {
+          "deploymentBucketName": "amplify-interview-dev-142249-deployment",
+          "s3Key": "amplify-builds/syncConflictHandlerab56568e-3457336b4c7a58305253-build.zip"
+        }
+      }
+    }
+  }
+}
